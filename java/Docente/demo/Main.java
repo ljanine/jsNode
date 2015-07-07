@@ -24,5 +24,6 @@ class Main{
 		System.out.printf("Sueldo bruto:  %.2f \n", doc1.sueldoBruto());	
 		System.out.printf("Descuento: %.2f \n", doc1.descuento());	
 		System.out.printf("Sueldo Neto:  %.2f \n", doc1.sueldoNeto());		
+		
 	}
 }
